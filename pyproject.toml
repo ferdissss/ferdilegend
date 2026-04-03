@@ -13,8 +13,8 @@ requires-python = ">=3.8"
 keywords = ["telegram", "userbot", "scraper", "telethon", "pyrogram"]
 
 dependencies = [
-    "telethon>=1.36.0",
-    "pyrogram>=2.1.0",
+    "pyrogram>=2.0.106",
+    "telethon>=1.36.0"
     "tgcrypto>=1.2.0",
     "rich>=13.7.0",
     "pyfiglet>=0.8.post1",
